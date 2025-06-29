@@ -9,7 +9,7 @@ SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
 To better understand the structure of the data used in this analysis, refer to the database schema below:
 
-![Database Schema](project_sql\database_schema.png)
+![Database Schema](project_sql/database_schema.png)
 
 # Background
 
